@@ -1,0 +1,30 @@
+#navbar{
+    background-color: burlywood; 
+    font-weight: bold;
+}
+#head{
+    color:rgb(230, 127, 18);
+    max-height: 100px !important;
+    border: 5px solid white;
+}
+#img-item{
+    object-fit: contain;
+}
+#table{
+    padding-left: 100px;
+    padding-right: 100px;
+    /* border: 1px solid black; */
+    padding-top: 50px;
+    padding-bottom: 50px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border-radius: 50px;
+}
+#forms{
+    padding-left: 100px;
+    padding-right: 100px;
+    /* border: 1px solid black; */
+    padding-top: 50px;
+    padding-bottom: 50px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border-radius: 50px;
+}
